@@ -2,10 +2,10 @@
 --------------------------------------
 
 
-*Scratch
+* Scratch
 	* Lav et gribe spil
 	* Lav en endless runner
-* Bøh
+* Buh
 ```
 draw =0
 ```
